@@ -1,0 +1,8 @@
+{
+"name": "Stock Checker",
+"description": "Looks up stocks to see their charts and current news.",
+"repository": "https://github.com/uacs337spring2019/final-project-stocks.git",
+"logo": ""
+,
+"keywords": ["stocks", "graph", "news"]
+}
