@@ -2,7 +2,8 @@
   "name": "final-hiroku",
   "version": "1.0.0",
   "engines": {
-    "node": "10.3.0"
+    "node": "10.15.3",
+	  "npm": "6.4.1"
   },
   "description": "Stock Checker",
   "main": "Stocks.js",
