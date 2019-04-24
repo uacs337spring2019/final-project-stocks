@@ -1,0 +1,47 @@
+/* 
+Aaron Silvers
+Nathan Truong
+
+CSC 337, Spring 2019
+Final Project
+
+
+
+*/
+h1 {
+	font-family: helvetica;
+	width: 50%;
+	margin:auto;
+	padding-bottom:25px;
+}
+body {
+	font-family: Impact;
+	text-align: center;
+	overflow: hidden;
+}
+
+#Elon {
+	float:right;
+}
+.container {
+	width: 50%;
+	margin:auto;
+}
+#canvas {
+	margin-top: 10px;
+	border:solid;
+	box-shadow: 3px 3px;
+	padding-bottom: 3px;
+	margin:auto;
+	
+	
+}
+#news{
+	width: 50%;
+	margin:auto;
+}
+#Jeff {
+	float:left;
+	
+}
+
