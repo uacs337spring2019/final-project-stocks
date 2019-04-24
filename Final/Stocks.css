@@ -5,8 +5,11 @@ Nathan Truong
 CSC 337, Spring 2019
 Final Project
 
-
-
+This is the css page for the application named Stock Checker.
+The images are floated to the right and left.
+2 font families were used, helvetica and impact style fonts.
+Box Model properties include, padding, margin, border, width, text-align, and box-shadow.
+This page also passes validators.
 */
 h1 {
 	font-family: helvetica;
