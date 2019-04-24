@@ -5,7 +5,13 @@ Nathan Truong
 CSC 337, Spring 2019
 Final Project
 
-
+This is the javascript page for the application named Stock Checker.
+The page waits for button click events for the user to type into the text box and hit go, 
+and if the user clicks one of the buttons from the text file.
+Uses fetch() to retrieve the stocks stored in the text file and posts new ones that have not been
+searched yet.
+The page also validates user input by seeing if the input reveals a real stock and puts a 
+success or not found message at the top of the page.
 */
 
 
