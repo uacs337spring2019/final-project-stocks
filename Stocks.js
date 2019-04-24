@@ -38,7 +38,7 @@ function saveChart() {
 
 	console.log(Smessage);
 
-	let url = "http://stockcheckercsc337-2.herokuapp.com:process.env.PORT";
+	let url = "http://stockcheckercsc337-3.herokuapp.com:process.env.PORT";
 	fetch(url, fetchOptions)
 		.then(checkStatus)
 		.then(function(responseText) {
@@ -144,7 +144,7 @@ function daNews(stock){ /* uses stock */
 
 /**fetches the messages from the server */
 function getPastSearches(){
-	let url = "http://stockcheckercsc337-2.herokuapp.com:process.env.PORT";
+	let url = "http://stockcheckercsc337-3.herokuapp.com:process.env.PORT";
 	
 	fetch(url)
 			.then(checkStatus)
