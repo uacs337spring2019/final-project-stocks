@@ -5,7 +5,11 @@ Nathan Truong
 CSC 337, Spring 2019
 Final Project
 
-
+This is the service page for the application known as Stock Checker.
+This page uses both node and expressjs.
+The service saves data from the user input, whatever stocks that are inputted will
+be put in the text file and be put as a button on the b0ottom of the page.
+This service gets data from the user and is able to post information back to the page.
 */
 const express = require("express");
 const app = express();
